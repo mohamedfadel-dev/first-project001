@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Responsive Camping Website
 ## [Watch it on youtube](https://youtu.be/Sc4IDvESKHE)
 ### Responsive Camping Website
@@ -10,3 +11,9 @@
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
 
 ![preview img](/preview.png)
+=======
+# first-project001
+start with html5 and css
+simple static website 
+making changes
+>>>>>>> refs/remotes/origin/main
